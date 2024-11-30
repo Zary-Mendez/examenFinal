@@ -1,0 +1,15 @@
+h1{
+    background-color: #e87fed;
+    border-radius: 35px;
+    text-align: center;
+}
+
+form{
+    background-color: #fcd7fe;
+    border-radius: 35px;
+    text-align: center;
+}
+
+button{
+    background-color: #e87fed;
+}
